@@ -15,4 +15,4 @@
 > [3] Abhishek Parikh, Farah Pathan, Bhavdipsinh Rathod, Sandeep Shah. “Solar Panel Condition Monitoring System based on Wireless Sensor Network” International Journal of Science, Engineering and Technology Research (IJSETR), Volume 4, Issue 12, December 2015.  
 > [4] The Things Network – IoT platform, [https://www.thethingsnetwork.org](https://www.thethingsnetwork.org)  
 > [5] Victron energy - VE.Direct LoRaWAN module manual, [https://docs.victronenergy.com/vedirect_lorawan.html#introduction](https://docs.victronenergy.com/vedirect_lorawan.html#introduction)  
-
+> [6] OpenWeather - current weather data of Current & Forecast weather data collection, [https://openweathermap.org/api](https://openweathermap.org/api)  
